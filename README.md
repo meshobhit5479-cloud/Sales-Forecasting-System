@@ -190,7 +190,7 @@ screenshots/prediction.png
 
 ## 👨‍💻 Author
 
-**Shivam Yadav**
+**Shobhit Yadav**
 
 B.Tech Computer Science & Engineering
 
